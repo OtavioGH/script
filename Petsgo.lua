@@ -112,10 +112,9 @@ _G.CONFIGURATION = {
     ["Legendary Enchant Safe"] = "all",
 
 -- Others/Event
-        ["Rainbow Board Game Dice"] = "all",
-        ["Golden Boardgame Dice"] = "all",
+        ["Rainbow Board Game Dice"] = "perTime",
+        ["Golden Boardgame Dice"] = "perTime",
         ["Board Game Speed Potion"] = "all",
-	["Cupids Egg"] = "all",
 
         ["Lightning Potion"] = "perTime",
         ["Blizzard Potion"] = "perTime",
