@@ -1,4 +1,4 @@
-script_key="udZVfXSkopLlixObupcWczULjknJamYN"
+script_key="kGEgbpPRRhxaZHEsSQFpZkoAsPhBUMWb"
 
 _G.CONFIGURATION = {
   features = {
