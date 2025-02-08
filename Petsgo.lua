@@ -115,6 +115,7 @@ _G.CONFIGURATION = {
         ["Rainbow Board Game Dice"] = "all",
         ["Golden Boardgame Dice"] = "all",
         ["Board Game Speed Potion"] = "all",
+	["Cupids Egg"] = "all",
 
         ["Lightning Potion"] = "perTime",
         ["Blizzard Potion"] = "perTime",
