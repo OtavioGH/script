@@ -113,6 +113,7 @@ _G.CONFIGURATION = {
 
 -- Others/Event
         ["Rainbow Board Game Dice"] = "perTime",
+        ["Golden Board Game Dice"] = "perTime",
         ["Golden Boardgame Dice"] = "perTime",
         ["Board Game Speed Potion"] = "all",
 
@@ -120,4 +121,4 @@ _G.CONFIGURATION = {
         ["Blizzard Potion"] = "perTime",
     }
 }
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e6e2db3c61589da58ba62dd30a1b4d60.lua"))()
+--loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e6e2db3c61589da58ba62dd30a1b4d60.lua"))()
